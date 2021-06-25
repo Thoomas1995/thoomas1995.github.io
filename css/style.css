@@ -39,6 +39,7 @@ img {
 }
 
 .container {
+    vertical-align: middle;
     background-color: rgb(234, 221, 248);
     margin-top: 100px;
     margin-left: 30%;
